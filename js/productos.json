@@ -1,0 +1,1122 @@
+[
+    {
+        "id": "bulon-01",
+        "titulo": "Bulon Cabeza Hexagonal Grado 2 (USS)",
+        "imagen": "./assets/img/bulones/B1.png",
+        "categoria": {
+            "nombre": "Bulones",
+            "id": "bulones"
+        },
+        "precio": 9990
+    },
+    {
+        "id": "bulon-02",
+        "titulo": "Bulon Cabeza Hexagonal Grado 5 (UNF/SAE)",
+        "imagen": "./assets/img/bulones/B2.png",
+        "categoria": {
+            "nombre": "Bulones",
+            "id": "bulones"
+        },
+        "precio": 4020
+    },
+    {
+        "id": "bulon-03",
+        "titulo": "Bulon Cabeza Hexagonal Grado 5 (USS)",
+        "imagen": "./assets/img/bulones/B3.png",
+        "categoria": {
+            "nombre": "Bulones",
+            "id": "bulones"
+        },
+        "precio": 9990
+    },
+    {
+        "id": "bulon-04",
+        "titulo": "Bulon Cabeza Hexagonal Flangeado Grado 5",
+        "imagen": "./assets/img/bulones/B4.png",
+        "categoria": {
+            "nombre": "Bulones",
+            "id": "bulones"
+        },
+        "precio": 10300
+    },
+    {
+        "id": "bulon-05",
+        "titulo": "Bulon Cabeza Hexagonal Grado 8.8 (MA)",
+        "imagen": "./assets/img/bulones/B11.png",
+        "categoria": {
+            "nombre": "Bulones",
+            "id": "bulones"
+        },
+        "precio": 9990
+    },
+    {
+        "id": "bulon-06",
+        "titulo": "Bulon Cabeza Hexagonal Grado 10.9",
+        "imagen": "./assets/img/bulones/B14.png",
+        "categoria": {
+            "nombre": "Bulones",
+            "id": "bulones"
+        },
+        "precio": 9990
+    },
+    {
+        "id": "bulon-07",
+        "titulo": "Bulon Cabeza Hexagonal Flangeado Grado 8 (MA)",
+        "imagen": "./assets/img/bulones/B5.png",
+        "categoria": {
+            "nombre": "Bulones",
+            "id": "bulones"
+        },
+        "precio": 9990
+    },
+    {
+        "id": "bulon-08",
+        "titulo": "Bulon para reja de arado",
+        "imagen": "./assets/img/bulones/B6.png",
+        "categoria": {
+            "nombre": "Bulones",
+            "id": "bulones"
+        },
+        "precio": 11580
+    },
+    {
+        "id": "bulon-09",
+        "titulo": "Bulon Cabeza Hexagonal Torneada",
+        "imagen": "./assets/img/bulones/B7.png",
+        "categoria": {
+            "nombre": "Bulones",
+            "id": "bulones"
+        },
+        "precio": 9990
+    },
+    {
+        "id": "bulon-10",
+        "titulo": "Bulon Hexagonal ASTM A-325",
+        "imagen": "./assets/img/bulones/B8.png",
+        "categoria": {
+            "nombre": "Bulones",
+            "id": "bulones"
+        },
+        "precio": 9990
+    },
+    {
+        "id": "bulon-11",
+        "titulo": "Bulon Cabeza Redonda Cuello Cuadrado C/Tuerca",
+        "imagen": "./assets/img/bulones/B9.png",
+        "categoria": {
+            "nombre": "Bulones",
+            "id": "bulones"
+        },
+        "precio": 9990
+    },
+    {
+        "id": "bulon-12",
+        "titulo": "Bulon Hexagonal ASTM A-325 - Zincado",
+        "imagen": "./assets/img/bulones/B13.png",
+        "categoria": {
+            "nombre": "Bulones",
+            "id": "bulones"
+        },
+        "precio": 9990
+    },
+    {
+        "id": "bulon-13",
+        "titulo": "Bulon Bolita",
+        "imagen": "./assets/img/bulones/B10.png",
+        "categoria": {
+            "nombre": "Bulones",
+            "id": "bulones"
+        },
+        "precio": 9990
+    },
+    {
+        "id": "bulon-14",
+        "titulo": "Bulon Cabeza Hexagonal Grado 8.8 (MB/DC)",
+        "imagen": "./assets/img/bulones/B12.png",
+        "categoria": {
+            "nombre": "Bulones",
+            "id": "bulones"
+        },
+        "precio": 9990
+    },
+    {
+        "id": "bulon-15",
+        "titulo": "Bulon de Expancion FWA",
+        "imagen": "./assets/img/bulones/B16.png",
+        "categoria": {
+            "nombre": "Bulones",
+            "id": "bulones"
+        },
+        "precio": 9990
+    },
+    {
+        "id": "bulon-16",
+        "titulo": "Bulon Cabeza Hexagonal Acero Inoxidable",
+        "imagen": "./assets/img/bulones/B15.png",
+        "categoria": {
+            "nombre": "Bulones",
+            "id": "bulones"
+        },
+        "precio": 9990
+    },
+    {
+        "id": "tuerca-01",
+        "titulo": "Tuerca Hexagonal Pesada W - Natural",
+        "imagen": "./assets/img/tuercas/T4.png",
+        "categoria": {
+            "nombre": "Tuercas",
+            "id": "tuercas"
+        },
+        "precio": 376999
+    },
+    {
+        "id": "tuerca-02",
+        "titulo": "Tuerca Hexagonal Pesada W - Zincada",
+        "imagen": "./assets/img/tuercas/T10.png",
+        "categoria": {
+            "nombre": "Tuercas",
+            "id": "tuercas"
+        },
+        "precio": 380000
+    },
+    {
+        "id": "tuerca-03",
+        "titulo": "Tuerca Hexagonal Grado 2 USS - Zincada",
+        "imagen": "./assets/img/tuercas/T8.png",
+        "categoria": {
+            "nombre": "Tuercas",
+            "id": "tuercas"
+        },
+        "precio": 320000
+    },
+    {
+        "id": "tuerca-04",
+        "titulo": "Tuerca Hexagonal Grado 2 USS - Natural",
+        "imagen": "./assets/img/tuercas/T9.png",
+        "categoria": {
+            "nombre": "Tuercas",
+            "id": "tuercas"
+        },
+        "precio": 175000
+    },
+    {
+        "id": "tuerca-05",
+        "titulo": "Tuerca Hexagonal Conica en Pulgadas SAE",
+        "imagen": "./assets/img/tuercas/T5.png",
+        "categoria": {
+            "nombre": "Tuercas",
+            "id": "tuercas"
+        },
+        "precio": 215000
+    },
+    {
+        "id": "tuerca-06",
+        "titulo": "Tuerca Hexagonal Conica Metrica MB",
+        "imagen": "./assets/img/tuercas/T6.png",
+        "categoria": {
+            "nombre": "Tuercas",
+            "id": "tuercas"
+        },
+        "precio": 110000
+    },
+    {
+        "id": "tuerca-07",
+        "titulo": "Tuerca Hexagonal Grado 5 UNC/WHIT",
+        "imagen": "./assets/img/tuercas/T1.png",
+        "categoria": {
+            "nombre": "Tuercas",
+            "id": "tuercas"
+        },
+        "precio": 260000
+    },
+    {
+        "id": "tuerca-08",
+        "titulo": "Tuerca Hexagonal STM A194 2H",
+        "imagen": "./assets/img/tuercas/T7.png",
+        "categoria": {
+            "nombre": "Tuercas",
+            "id": "tuercas"
+        },
+        "precio": 90000
+    },
+    {
+        "id": "tuerca-09",
+        "titulo": "Tuerca Hexagonal Milimetrica MA",
+        "imagen": "./assets/img/tuercas/T2.png",
+        "categoria": {
+            "nombre": "Tuercas",
+            "id": "tuercas"
+        },
+        "precio": 360000
+    },
+    {
+        "id": "tuerca-10",
+        "titulo": "Tuerca Hexagonal Milimetrica MB",
+        "imagen": "./assets/img/tuercas/T3.png",
+        "categoria": {
+            "nombre": "Tuercas",
+            "id": "tuercas"
+        },
+        "precio": 115000
+    },
+    {
+        "id": "tuerca-11",
+        "titulo": "Tuerca Autofrenante Metrica (DIN 985)",
+        "imagen": "./assets/img/tuercas/T12.png",
+        "categoria": {
+            "nombre": "Tuercas",
+            "id": "tuercas"
+        },
+        "precio": 115000
+    },
+    {
+        "id": "tuerca-12",
+        "titulo": "Tuerca Autofrenante Zincada M8",
+        "imagen": "./assets/img/tuercas/T11.png",
+        "categoria": {
+            "nombre": "Tuercas",
+            "id": "tuercas"
+        },
+        "precio": 115000
+    },
+    {
+        "id": "tuerca-13",
+        "titulo": "Tuerca Hexagonal Autofrenante Nylon UNC",
+        "imagen": "./assets/img/tuercas/T13.png",
+        "categoria": {
+            "nombre": "Tuercas",
+            "id": "tuercas"
+        },
+        "precio": 115000
+    },
+    {
+        "id": "tuerca-14",
+        "titulo": "Tuerca Mariposa de Bronce",
+        "imagen": "./assets/img/tuercas/T16.png",
+        "categoria": {
+            "nombre": "Tuercas",
+            "id": "tuercas"
+        },
+        "precio": 115000
+    },
+    {
+        "id": "tuerca-15",
+        "titulo": "Tuerca Ciega de Bronce",
+        "imagen": "./assets/img/tuercas/T17.png",
+        "categoria": {
+            "nombre": "Tuercas",
+            "id": "tuercas"
+        },
+        "precio": 115000
+    },
+    {
+        "id": "tuerca-16",
+        "titulo": "Tuerca Mariposa de Acero Estampada",
+        "imagen": "./assets/img/tuercas/T14.png",
+        "categoria": {
+            "nombre": "Tuercas",
+            "id": "tuercas"
+        },
+        "precio": 115000
+    },
+    {
+        "id": "tuerca-17",
+        "titulo": "Tuerca de Acero Inoxidable",
+        "imagen": "./assets/img/tuercas/T15.png",
+        "categoria": {
+            "nombre": "Tuercas",
+            "id": "tuercas"
+        },
+        "precio": 115000
+    },
+    {
+        "id": "arandela-01",
+        "titulo": "Arandelas Planas de Hierro Zincada",
+        "imagen": "./assets/img/arandelas/A1.png",
+        "categoria": {
+            "nombre": "Arandelas",
+            "id": "arandelas"
+        },
+        "precio": 23410
+    },
+    {
+        "id": "arandela-02",
+        "titulo": "Arandela Plana ASTM F436",
+        "imagen": "./assets/img/arandelas/A2.png",
+        "categoria": {
+            "nombre": "Arandelas",
+            "id": "arandelas"
+        },
+        "precio": 33720
+    },
+    {
+        "id": "arandela-03",
+        "titulo": "Arandela Chapista Zincada",
+        "imagen": "./assets/img/arandelas/A3.png",
+        "categoria": {
+            "nombre": "Arandelas",
+            "id": "arandelas"
+        },
+        "precio": 27850
+    },
+    {
+        "id": "arandela-04",
+        "titulo": "Arandela Copa de Hierro",
+        "imagen": "./assets/img/arandelas/A4.png",
+        "categoria": {
+            "nombre": "Arandelas",
+            "id": "arandelas"
+        },
+        "precio": 20500
+    },
+    {
+        "id": "arandela-05",
+        "titulo": "Arandela Grower - Natural",
+        "imagen": "./assets/img/arandelas/A5.png",
+        "categoria": {
+            "nombre": "Arandelas",
+            "id": "arandelas"
+        },
+        "precio": 17590
+    },
+    {
+        "id": "arandela-06",
+        "titulo": "Arandela Grower - Zincada",
+        "imagen": "./assets/img/arandelas/A6.png",
+        "categoria": {
+            "nombre": "Arandelas",
+            "id": "arandelas"
+        },
+        "precio": 12590
+    },
+    {
+        "id": "arandela-07",
+        "titulo": "Arandelas Biseladas en Pulgadas",
+        "imagen": "./assets/img/arandelas/A7.png",
+        "categoria": {
+            "nombre": "Arandelas",
+            "id": "arandelas"
+        },
+        "precio": 30290
+    },
+    {
+        "id": "arandela-08",
+        "titulo": "Arandelas Biselas Milimetricas",
+        "imagen": "./assets/img/arandelas/A8.png",
+        "categoria": {
+            "nombre": "Arandelas",
+            "id": "arandelas"
+        },
+        "precio": 15960
+    },
+    {
+        "id": "arandela-09",
+        "titulo": "Arandela de Bronce",
+        "imagen": "./assets/img/arandelas/A9.png",
+        "categoria": {
+            "nombre": "Arandelas",
+            "id": "arandelas"
+        },
+        "precio": 14410
+    },
+    {
+        "id": "arandela-10",
+        "titulo": "Arandela de Suplemento Vuelo Normal",
+        "imagen": "./assets/img/arandelas/A10.png",
+        "categoria": {
+            "nombre": "Arandelas",
+            "id": "arandelas"
+        },
+        "precio": 26330
+    },
+    {
+        "id": "arandela-11",
+        "titulo": "Arandela de Suplemento Vuelo Grande",
+        "imagen": "./assets/img/arandelas/A11.png",
+        "categoria": {
+            "nombre": "Arandelas",
+            "id": "arandelas"
+        },
+        "precio": 43520
+    },
+    {
+        "id": "arandela-12",
+        "titulo": "Arandela de Acero Inoxidable Grower",
+        "imagen": "./assets/img/arandelas/A12.png",
+        "categoria": {
+            "nombre": "Arandelas",
+            "id": "arandelas"
+        },
+        "precio": 40870
+    },
+    {
+        "id": "fijacion-01",
+        "titulo": "Mascara de Protección Facial",
+        "imagen": "./assets/img/fijaciones/F1.png",
+        "categoria": {
+            "nombre": "Fijaciones",
+            "id": "fijaciones"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "fijacion-02",
+        "titulo": "Pistola de Inyeccion FIS AM P/2 Cartuchos",
+        "imagen": "./assets/img/fijaciones/F2.png",
+        "categoria": {
+            "nombre": "Fijaciones",
+            "id": "fijaciones"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "fijacion-03",
+        "titulo": "Cartucho Multiuso de Inyecciones FIS P",
+        "imagen": "./assets/img/fijaciones/F3.png",
+        "categoria": {
+            "nombre": "Fijaciones",
+            "id": "fijaciones"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "fijacion-04",
+        "titulo": "Cartucho de Inyeccion FIS V 300 T",
+        "imagen": "./assets/img/fijaciones/F4.png",
+        "categoria": {
+            "nombre": "Fijaciones",
+            "id": "fijaciones"
+        },
+        "precio": 17500
+    },
+    {
+        "id": "fijacion-05",
+        "titulo": "Cartucho de Inyeccion FIS EM 390 S",
+        "imagen": "./assets/img/fijaciones/F5.png",
+        "categoria": {
+            "nombre": "Fijaciones",
+            "id": "fijaciones"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "fijacion-06",
+        "titulo": "Mechas Hss F3 - Fast and Flexible",
+        "imagen": "./assets/img/fijaciones/F6.png",
+        "categoria": {
+            "nombre": "Fijaciones",
+            "id": "fijaciones"
+        },
+        "precio": 35000
+    },
+    {
+        "id": "fijacion-07",
+        "titulo": "Mecha de Widia Encastre SDS Plus Pointer EC",
+        "imagen": "./assets/img/fijaciones/F7.png",
+        "categoria": {
+            "nombre": "Fijaciones",
+            "id": "fijaciones"
+        },
+        "precio": 13520
+    },
+    {
+        "id": "fijacion-08",
+        "titulo": "Mecha de Widia Standar WHS",
+        "imagen": "./assets/img/fijaciones/F8.png",
+        "categoria": {
+            "nombre": "Fijaciones",
+            "id": "fijaciones"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "fijacion-09",
+        "titulo": "Taco SX En Balde",
+        "imagen": "./assets/img/fijaciones/F9.png",
+        "categoria": {
+            "nombre": "Fijaciones",
+            "id": "fijaciones"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "fijacion-10",
+        "titulo": "Taco Nylon Universal FU",
+        "imagen": "./assets/img/fijaciones/F10.png",
+        "categoria": {
+            "nombre": "Fijaciones",
+            "id": "fijaciones"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "fijacion-11",
+        "titulo": "Piton Abierto C/Arandela PA1 - Zincado",
+        "imagen": "./assets/img/fijaciones/F11.png",
+        "categoria": {
+            "nombre": "Fijaciones",
+            "id": "fijaciones"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "fijacion-12",
+        "titulo": "Piton Escuadra C/Arandela PA2 - Zincado",
+        "imagen": "./assets/img/fijaciones/F12.png",
+        "categoria": {
+            "nombre": "Fijaciones",
+            "id": "fijaciones"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "fijacion-13",
+        "titulo": "Piton Cerrado C/Arandela PA3 - Zincado",
+        "imagen": "./assets/img/fijaciones/F13.png",
+        "categoria": {
+            "nombre": "Fijaciones",
+            "id": "fijaciones"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "fijacion-14",
+        "titulo": "Taco de Nylon S",
+        "imagen": "./assets/img/fijaciones/F14.png",
+        "categoria": {
+            "nombre": "Fijaciones",
+            "id": "fijaciones"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "fijacion-15",
+        "titulo": "Taco de Nylon S (Caja Gigante)",
+        "imagen": "./assets/img/fijaciones/F15.png",
+        "categoria": {
+            "nombre": "Fijaciones",
+            "id": "fijaciones"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "fijacion-16",
+        "titulo": "Taco con Arandela SA",
+        "imagen": "./assets/img/fijaciones/F16.png",
+        "categoria": {
+            "nombre": "Fijaciones",
+            "id": "fijaciones"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "fijacion-17",
+        "titulo": "Taco con Arandela SA (En bolsa)",
+        "imagen": "./assets/img/fijaciones/F17.png",
+        "categoria": {
+            "nombre": "Fijaciones",
+            "id": "fijaciones"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "fijacion-18",
+        "titulo": "Taco Nylon S (En bolsa)",
+        "imagen": "./assets/img/fijaciones/F18.png",
+        "categoria": {
+            "nombre": "Fijaciones",
+            "id": "fijaciones"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "fijacion-19",
+        "titulo": "Taco Universal UX con Arandela",
+        "imagen": "./assets/img/fijaciones/F19.png",
+        "categoria": {
+            "nombre": "Fijaciones",
+            "id": "fijaciones"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "varilla-01",
+        "titulo": "Varilla Roscada en Pulgadas - Natural",
+        "imagen": "./assets/img/varillas/V1.png",
+        "categoria": {
+            "nombre": "Varillas",
+            "id": "varillas"
+        },
+        "precio": 182519
+    },
+    {
+        "id": "varilla-02",
+        "titulo": "Varilla Rosca Cuadrada (Acme Trapezoidal)",
+        "imagen": "./assets/img/varillas/V2.png",
+        "categoria": {
+            "nombre": "Varillas",
+            "id": "varillas"
+        },
+        "precio": 209869
+    },
+    {
+        "id": "varilla-03",
+        "titulo": "Varilla Roscada de Hierro Rosca Izquierda",
+        "imagen": "./assets/img/varillas/V3.png",
+        "categoria": {
+            "nombre": "Varillas",
+            "id": "varillas"
+        },
+        "precio": 25394
+    },
+    {
+        "id": "varilla-04",
+        "titulo": "Varilla Roscada de Hierro SAE",
+        "imagen": "./assets/img/varillas/V4.png",
+        "categoria": {
+            "nombre": "Varillas",
+            "id": "varillas"
+        },
+        "precio": 12946
+    },
+    {
+        "id": "varilla-05",
+        "titulo": "Varilla Roscada Acero Inoxidable",
+        "imagen": "./assets/img/varillas/V5.png",
+        "categoria": {
+            "nombre": "Varillas",
+            "id": "varillas"
+        },
+        "precio": 27099
+    },
+    {
+        "id": "varilla-06",
+        "titulo": "Varilla Roscada de Bronce",
+        "imagen": "./assets/img/varillas/V6.png",
+        "categoria": {
+            "nombre": "Varillas",
+            "id": "varillas"
+        },
+        "precio": 37000
+    },
+    {
+        "id": "varilla-07",
+        "titulo": "Varilla Roscada Milimetrica - Natural",
+        "imagen": "./assets/img/varillas/V7.png",
+        "categoria": {
+            "nombre": "Varillas",
+            "id": "varillas"
+        },
+        "precio": 6647
+    },
+    {
+        "id": "varilla-08",
+        "titulo": "Varilla Roscada Milimetrica - Zincada",
+        "imagen": "./assets/img/varillas/V8.png",
+        "categoria": {
+            "nombre": "Varillas",
+            "id": "varillas"
+        },
+        "precio": 70237
+    },
+    {
+        "id": "varilla-09",
+        "titulo": "Varilla Roscada en Pulgadas - Zincada",
+        "imagen": "./assets/img/varillas/V9.png",
+        "categoria": {
+            "nombre": "Varillas",
+            "id": "varillas"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "remache-01",
+        "titulo": "Remache Cabeza Chata de Hierro",
+        "imagen": "./assets/img/remaches/R1.png",
+        "categoria": {
+            "nombre": "Remaches",
+            "id": "remaches"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "remache-02",
+        "titulo": "Remache Cabeza Redonda de Hierro",
+        "imagen": "./assets/img/remaches/R2.png",
+        "categoria": {
+            "nombre": "Remaches",
+            "id": "remaches"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "remache-03",
+        "titulo": "Remache Carrocero - Cabeza Redonda",
+        "imagen": "./assets/img/remaches/R3.png",
+        "categoria": {
+            "nombre": "Remaches",
+            "id": "remaches"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "remache-04",
+        "titulo": "Remache Rapido - Tipo POP",
+        "imagen": "./assets/img/remaches/R4.png",
+        "categoria": {
+            "nombre": "Remaches",
+            "id": "remaches"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "remache-05",
+        "titulo": "Remache Estanco Cerrado",
+        "imagen": "./assets/img/remaches/R5.png",
+        "categoria": {
+            "nombre": "Remaches",
+            "id": "remaches"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "remache-06",
+        "titulo": "Remache Rapido Tipo POP - Rerar",
+        "imagen": "./assets/img/remaches/R6.png",
+        "categoria": {
+            "nombre": "Remaches",
+            "id": "remaches"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "remache-07",
+        "titulo": "Remache de Aluminio Ala Ancha",
+        "imagen": "./assets/img/remaches/R7.png",
+        "categoria": {
+            "nombre": "Remaches",
+            "id": "remaches"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "remache-08",
+        "titulo": "Remache POP Acero Inoxidable",
+        "imagen": "./assets/img/remaches/R8.png",
+        "categoria": {
+            "nombre": "Remaches",
+            "id": "remaches"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "remache-09",
+        "titulo": "Remache Tipo POP - Zincado",
+        "imagen": "./assets/img/remaches/R9.png",
+        "categoria": {
+            "nombre": "Remaches",
+            "id": "remaches"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "tornillo-01",
+        "titulo": "Tornillo Fix - Dorado",
+        "imagen": "./assets/img/tornillos/T1.png",
+        "categoria": {
+            "nombre": "Tornillos",
+            "id": "tornillos"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "tornillo-02",
+        "titulo": "Tornillo Tirafondo Cabeza Hexagonal",
+        "imagen": "./assets/img/tornillos/T2.png",
+        "categoria": {
+            "nombre": "Tornillos",
+            "id": "tornillos"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "tornillo-03",
+        "titulo": "Tornillo Cabeza Redonda de Bronce",
+        "imagen": "./assets/img/tornillos/T3.png",
+        "categoria": {
+            "nombre": "Tornillos",
+            "id": "tornillos"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "tornillo-04",
+        "titulo": "Tornillo Cabeza Fresada de Bronce",
+        "imagen": "./assets/img/tornillos/T4.png",
+        "categoria": {
+            "nombre": "Tornillos",
+            "id": "tornillos"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "tornillo-05",
+        "titulo": "Tornillo de Hierro Cabeza Redonda S/Tuerca",
+        "imagen": "./assets/img/tornillos/T5.png",
+        "categoria": {
+            "nombre": "Tornillos",
+            "id": "tornillos"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "tornillo-06",
+        "titulo": "Tornillo de Hierro Cabeza Fresada S/Tuerca",
+        "imagen": "./assets/img/tornillos/T6.png",
+        "categoria": {
+            "nombre": "Tornillos",
+            "id": "tornillos"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "tornillo-07",
+        "titulo": "Tornillo Cabeza Tanque S/Tuerca",
+        "imagen": "./assets/img/tornillos/T7.png",
+        "categoria": {
+            "nombre": "Tornillos",
+            "id": "tornillos"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "tornillo-08",
+        "titulo": "Tornillo Parker AC Cabeza Fijadora",
+        "imagen": "./assets/img/tornillos/T8.png",
+        "categoria": {
+            "nombre": "Tornillos",
+            "id": "tornillos"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "tornillo-09",
+        "titulo": "Tornillo Parker AC Cabeza Hexagonal",
+        "imagen": "./assets/img/tornillos/T9.png",
+        "categoria": {
+            "nombre": "Tornillos",
+            "id": "tornillos"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "tornillo-10",
+        "titulo": "Tornillo Cabeza Cilindrica Milimetrico",
+        "imagen": "./assets/img/tornillos/T10.png",
+        "categoria": {
+            "nombre": "Tornillos",
+            "id": "tornillos"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "tornillo-11",
+        "titulo": "Tornillo Cabeza Fresada Milimetrico",
+        "imagen": "./assets/img/tornillos/T11.png",
+        "categoria": {
+            "nombre": "Tornillos",
+            "id": "tornillos"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "tornillo-12",
+        "titulo": "Gusanillo Allen en Pulgadas",
+        "imagen": "./assets/img/tornillos/T12.png",
+        "categoria": {
+            "nombre": "Tornillos",
+            "id": "tornillos"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "tornillo-13",
+        "titulo": "Gusanillo Allen Milimetrico",
+        "imagen": "./assets/img/tornillos/T13.png",
+        "categoria": {
+            "nombre": "Tornillos",
+            "id": "tornillos"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "tornillo-14",
+        "titulo": "Tornillo Allen Cilindrico Milimetrico",
+        "imagen": "./assets/img/tornillos/T14.png",
+        "categoria": {
+            "nombre": "Tornillos",
+            "id": "tornillos"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "tornillo-15",
+        "titulo": "Tornillo Allen Cilindrico en Pulgadas",
+        "imagen": "./assets/img/tornillos/T15.png",
+        "categoria": {
+            "nombre": "Tornillos",
+            "id": "tornillos"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "tornillo-16",
+        "titulo": "Tornillo Gota de Sebo Acero Inoxidable",
+        "imagen": "./assets/img/tornillos/T16.png",
+        "categoria": {
+            "nombre": "Tornillos",
+            "id": "tornillos"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "tornillo-17",
+        "titulo": "Tornillo Parker Cabeza Fijadora de Acero Inoxidable",
+        "imagen": "./assets/img/tornillos/T17.png",
+        "categoria": {
+            "nombre": "Tornillos",
+            "id": "tornillos"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "tornillo-18",
+        "titulo": "Tornillo Allen Boton Milimetrico",
+        "imagen": "./assets/img/tornillos/T18.png",
+        "categoria": {
+            "nombre": "Tornillos",
+            "id": "tornillos"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "tornillo-19",
+        "titulo": "Tornillo Allen Boton en Pulgadas",
+        "imagen": "./assets/img/tornillos/T18.png",
+        "categoria": {
+            "nombre": "Tornillos",
+            "id": "tornillos"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "tornillo-20",
+        "titulo": "Tornillo Tel Hex - Autoperforante Hexagonal",
+        "imagen": "./assets/img/tornillos/T20.png",
+        "categoria": {
+            "nombre": "Tornillos",
+            "id": "tornillos"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "tornillo-21",
+        "titulo": "Tornillo Tel Dry Zincado Azul - Punta Aguja",
+        "imagen": "./assets/img/tornillos/T21.png",
+        "categoria": {
+            "nombre": "Tornillos",
+            "id": "tornillos"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "tornillo-22",
+        "titulo": "Tornillo Tel Dry Zincado Azul - Punta Mecha",
+        "imagen": "./assets/img/tornillos/T22.png",
+        "categoria": {
+            "nombre": "Tornillos",
+            "id": "tornillos"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "tornillo-23",
+        "titulo": "Tornillo Autoperforante Tel Alas - Zincado Azul",
+        "imagen": "./assets/img/tornillos/T23.png",
+        "categoria": {
+            "nombre": "Tornillos",
+            "id": "tornillos"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "tornillo-24",
+        "titulo": "Tornillo TEL PHIL - Fijadora Con Mecha",
+        "imagen": "./assets/img/tornillos/T24.png",
+        "categoria": {
+            "nombre": "Tornillos",
+            "id": "tornillos"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "tornillo-25",
+        "titulo": "Tornillo TEL PHIL - Phillips P/Aluminio de 09 x 1.1/2",
+        "imagen": "./assets/img/tornillos/T25.png",
+        "categoria": {
+            "nombre": "Tornillos",
+            "id": "tornillos"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "tornillo-26",
+        "titulo": "Tornillo TEL PHIL - Linea Pan Framing Punta Aguja",
+        "imagen": "./assets/img/tornillos/T26.png",
+        "categoria": {
+            "nombre": "Tornillos",
+            "id": "tornillos"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "tornillo-27",
+        "titulo": "Tornillo TEL PHIL - Linea Pan Framing Punta Mecha",
+        "imagen": "./assets/img/tornillos/T27.png",
+        "categoria": {
+            "nombre": "Tornillos",
+            "id": "tornillos"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "tornillo-28",
+        "titulo": "Tornillo TEL PHIL - Linea Fresada Punta Mecha",
+        "imagen": "./assets/img/tornillos/T28.png",
+        "categoria": {
+            "nombre": "Tornillos",
+            "id": "tornillos"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "tornillo-29",
+        "titulo": "Tornillo TEL FIX - Cabeza Fresada Negro",
+        "imagen": "./assets/img/tornillos/T29.png",
+        "categoria": {
+            "nombre": "Tornillos",
+            "id": "tornillos"
+        },
+        "precio": 6442
+    },
+    {
+        "id": "tornillo-30",
+        "titulo": "Tornillo TEL FIX - Cabeza Fresada Dorado",
+        "imagen": "./assets/img/tornillos/T30.png",
+        "categoria": {
+            "nombre": "Tornillos",
+            "id": "tornillos"
+        },
+        "precio": 6442
+    }
+]
